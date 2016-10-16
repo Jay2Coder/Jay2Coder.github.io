@@ -1,2 +1,2 @@
-# Jay2coder.github.io
+# Jay2Coder.github.io
 超级程序员
